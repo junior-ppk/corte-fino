@@ -1,2 +1,4 @@
 # corte-fino
-Sistema para de revenda de serra etc..
+a=2
+b=3
+print(a+b)
