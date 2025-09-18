@@ -7,6 +7,8 @@ app = ctk.CTk()
 app.title("Vendas Serras Online")
 app.geometry("290x585")
 app.resizable(False,False)
+botao_arredondado = ctk.CTkButton(app, text="clique aqui ", corner_radius=15)
+botao_arredondado.pack(pady=20)
 
 label = ctk.CTkLabel(app, text="Olá \n Bem-vindo ", fg_color="transparent")
 label.pack (padx=30, pady=20)
