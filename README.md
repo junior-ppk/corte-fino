@@ -1,4 +1,4 @@
 # corte-fino
-a=2
-b=3
-print(a+b)
+Nome do sistema
+Descrição do sistema 
+Explicação de cada função.
